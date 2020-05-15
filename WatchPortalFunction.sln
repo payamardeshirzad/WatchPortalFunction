@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchPortalFunction", "WatchPortalFunction\WatchPortalFunction.csproj", "{FBF14FD9-0494-469F-992D-275CEE2C1A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchFunctionsTests", "WatchFunctionsTests\WatchFunctionsTests.csproj", "{15AFCE07-EE28-4364-ACDA-8D93FC104D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF14FD9-0494-469F-992D-275CEE2C1A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF14FD9-0494-469F-992D-275CEE2C1A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF14FD9-0494-469F-992D-275CEE2C1A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF14FD9-0494-469F-992D-275CEE2C1A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AFCE07-EE28-4364-ACDA-8D93FC104D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AFCE07-EE28-4364-ACDA-8D93FC104D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AFCE07-EE28-4364-ACDA-8D93FC104D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AFCE07-EE28-4364-ACDA-8D93FC104D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEF55BCD-A9B0-49DC-879E-9EE6A38F738B}
+	EndGlobalSection
+EndGlobal
